@@ -1,0 +1,7 @@
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demofirst\demofirst\bin\Debug\demofirst.exe.config
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demofirst\demofirst\bin\Debug\demofirst.exe
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demofirst\demofirst\bin\Debug\demofirst.pdb
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demofirst\demofirst\obj\Debug\demofirst.csproj.AssemblyReference.cache
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demofirst\demofirst\obj\Debug\demofirst.csproj.CoreCompileInputs.cache
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demofirst\demofirst\obj\Debug\demofirst.exe
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demofirst\demofirst\obj\Debug\demofirst.pdb

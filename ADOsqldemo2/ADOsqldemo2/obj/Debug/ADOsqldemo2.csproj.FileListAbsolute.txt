@@ -1,0 +1,13 @@
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\bin\Debug\ADOsqldemo2.exe.config
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\bin\Debug\ADOsqldemo2.exe
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\bin\Debug\ADOsqldemo2.pdb
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.Form1.resources
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.Properties.Resources.resources
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.Save.resources
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.csproj.GenerateResource.cache
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.exe
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.pdb
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.frmDelete.resources
+W:\DotNet\c#basic\ADOsqldemo2\ADOsqldemo2\obj\Debug\ADOsqldemo2.frmUpdate.resources

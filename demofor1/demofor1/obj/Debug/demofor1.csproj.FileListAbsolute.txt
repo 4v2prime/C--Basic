@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\demofor1\demofor1\bin\Debug\demofor1.exe.config
+W:\DotNet\c#basic\demofor1\demofor1\bin\Debug\demofor1.exe
+W:\DotNet\c#basic\demofor1\demofor1\bin\Debug\demofor1.pdb
+W:\DotNet\c#basic\demofor1\demofor1\obj\Debug\demofor1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demofor1\demofor1\obj\Debug\demofor1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demofor1\demofor1\obj\Debug\demofor1.exe
+W:\DotNet\c#basic\demofor1\demofor1\obj\Debug\demofor1.pdb

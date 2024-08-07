@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\demosingleinheritance\demosingleinheritance\bin\Debug\demosingleinheritance.exe.config
+W:\DotNet\c#basic\demosingleinheritance\demosingleinheritance\bin\Debug\demosingleinheritance.exe
+W:\DotNet\c#basic\demosingleinheritance\demosingleinheritance\bin\Debug\demosingleinheritance.pdb
+W:\DotNet\c#basic\demosingleinheritance\demosingleinheritance\obj\Debug\demosingleinheritance.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demosingleinheritance\demosingleinheritance\obj\Debug\demosingleinheritance.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demosingleinheritance\demosingleinheritance\obj\Debug\demosingleinheritance.exe
+W:\DotNet\c#basic\demosingleinheritance\demosingleinheritance\obj\Debug\demosingleinheritance.pdb

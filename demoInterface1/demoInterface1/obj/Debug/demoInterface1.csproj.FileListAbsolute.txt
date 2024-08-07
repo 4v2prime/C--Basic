@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\demoInterface1\demoInterface1\bin\Debug\demoInterface1.exe.config
+W:\DotNet\c#basic\demoInterface1\demoInterface1\bin\Debug\demoInterface1.exe
+W:\DotNet\c#basic\demoInterface1\demoInterface1\bin\Debug\demoInterface1.pdb
+W:\DotNet\c#basic\demoInterface1\demoInterface1\obj\Debug\demoInterface1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demoInterface1\demoInterface1\obj\Debug\demoInterface1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demoInterface1\demoInterface1\obj\Debug\demoInterface1.exe
+W:\DotNet\c#basic\demoInterface1\demoInterface1\obj\Debug\demoInterface1.pdb

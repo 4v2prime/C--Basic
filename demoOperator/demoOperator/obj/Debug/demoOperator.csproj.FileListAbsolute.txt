@@ -1,0 +1,14 @@
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoOperator\demoOperator\bin\Debug\demoOperator.exe.config
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoOperator\demoOperator\bin\Debug\demoOperator.exe
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoOperator\demoOperator\bin\Debug\demoOperator.pdb
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoOperator\demoOperator\obj\Debug\demoOperator.csproj.AssemblyReference.cache
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoOperator\demoOperator\obj\Debug\demoOperator.csproj.CoreCompileInputs.cache
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoOperator\demoOperator\obj\Debug\demoOperator.exe
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoOperator\demoOperator\obj\Debug\demoOperator.pdb
+W:\DotNet\c#basic\demoOperator\demoOperator\bin\Debug\demoOperator.exe.config
+W:\DotNet\c#basic\demoOperator\demoOperator\bin\Debug\demoOperator.exe
+W:\DotNet\c#basic\demoOperator\demoOperator\bin\Debug\demoOperator.pdb
+W:\DotNet\c#basic\demoOperator\demoOperator\obj\Debug\demoOperator.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demoOperator\demoOperator\obj\Debug\demoOperator.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demoOperator\demoOperator\obj\Debug\demoOperator.exe
+W:\DotNet\c#basic\demoOperator\demoOperator\obj\Debug\demoOperator.pdb

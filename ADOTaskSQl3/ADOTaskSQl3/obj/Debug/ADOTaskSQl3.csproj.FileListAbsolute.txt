@@ -1,0 +1,10 @@
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\bin\Debug\ADOTaskSQl3.exe.config
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\bin\Debug\ADOTaskSQl3.exe
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\bin\Debug\ADOTaskSQl3.pdb
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\obj\Debug\ADOTaskSQl3.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\obj\Debug\ADOTaskSQl3.Form1.resources
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\obj\Debug\ADOTaskSQl3.Properties.Resources.resources
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\obj\Debug\ADOTaskSQl3.csproj.GenerateResource.cache
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\obj\Debug\ADOTaskSQl3.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\obj\Debug\ADOTaskSQl3.exe
+W:\DotNet\c#basic\ADOTaskSQl3\ADOTaskSQl3\obj\Debug\ADOTaskSQl3.pdb

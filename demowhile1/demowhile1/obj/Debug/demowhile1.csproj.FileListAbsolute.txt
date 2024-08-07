@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\demowhile1\demowhile1\obj\Debug\demowhile1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demowhile1\demowhile1\obj\Debug\demowhile1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demowhile1\demowhile1\bin\Debug\demowhile1.exe.config
+W:\DotNet\c#basic\demowhile1\demowhile1\bin\Debug\demowhile1.exe
+W:\DotNet\c#basic\demowhile1\demowhile1\bin\Debug\demowhile1.pdb
+W:\DotNet\c#basic\demowhile1\demowhile1\obj\Debug\demowhile1.exe
+W:\DotNet\c#basic\demowhile1\demowhile1\obj\Debug\demowhile1.pdb

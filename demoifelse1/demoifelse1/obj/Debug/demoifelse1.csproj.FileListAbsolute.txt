@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\demoifelse1\demoifelse1\obj\Debug\demoifelse1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demoifelse1\demoifelse1\obj\Debug\demoifelse1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demoifelse1\demoifelse1\bin\Debug\demoifelse1.exe.config
+W:\DotNet\c#basic\demoifelse1\demoifelse1\bin\Debug\demoifelse1.exe
+W:\DotNet\c#basic\demoifelse1\demoifelse1\bin\Debug\demoifelse1.pdb
+W:\DotNet\c#basic\demoifelse1\demoifelse1\obj\Debug\demoifelse1.exe
+W:\DotNet\c#basic\demoifelse1\demoifelse1\obj\Debug\demoifelse1.pdb

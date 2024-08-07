@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\demoCollection1\demoCollection1\bin\Debug\demoCollection1.exe.config
+W:\DotNet\c#basic\demoCollection1\demoCollection1\bin\Debug\demoCollection1.exe
+W:\DotNet\c#basic\demoCollection1\demoCollection1\bin\Debug\demoCollection1.pdb
+W:\DotNet\c#basic\demoCollection1\demoCollection1\obj\Debug\demoCollection1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demoCollection1\demoCollection1\obj\Debug\demoCollection1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demoCollection1\demoCollection1\obj\Debug\demoCollection1.exe
+W:\DotNet\c#basic\demoCollection1\demoCollection1\obj\Debug\demoCollection1.pdb

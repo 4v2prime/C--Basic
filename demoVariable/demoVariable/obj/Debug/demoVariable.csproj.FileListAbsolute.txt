@@ -1,0 +1,7 @@
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoVariable\demoVariable\bin\Debug\demoVariable.exe.config
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoVariable\demoVariable\bin\Debug\demoVariable.exe
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoVariable\demoVariable\bin\Debug\demoVariable.pdb
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoVariable\demoVariable\obj\Debug\demoVariable.csproj.AssemblyReference.cache
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoVariable\demoVariable\obj\Debug\demoVariable.csproj.CoreCompileInputs.cache
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoVariable\demoVariable\obj\Debug\demoVariable.exe
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demoVariable\demoVariable\obj\Debug\demoVariable.pdb

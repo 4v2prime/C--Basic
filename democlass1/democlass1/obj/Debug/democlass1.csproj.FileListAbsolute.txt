@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\democlass1\democlass1\obj\Debug\democlass1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\democlass1\democlass1\obj\Debug\democlass1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\democlass1\democlass1\bin\Debug\democlass1.exe.config
+W:\DotNet\c#basic\democlass1\democlass1\bin\Debug\democlass1.exe
+W:\DotNet\c#basic\democlass1\democlass1\bin\Debug\democlass1.pdb
+W:\DotNet\c#basic\democlass1\democlass1\obj\Debug\democlass1.exe
+W:\DotNet\c#basic\democlass1\democlass1\obj\Debug\democlass1.pdb

@@ -1,0 +1,14 @@
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demodatatype\demodatatype\bin\Debug\demodatatype.exe.config
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demodatatype\demodatatype\bin\Debug\demodatatype.exe
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demodatatype\demodatatype\bin\Debug\demodatatype.pdb
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demodatatype\demodatatype\obj\Debug\demodatatype.csproj.AssemblyReference.cache
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demodatatype\demodatatype\obj\Debug\demodatatype.csproj.CoreCompileInputs.cache
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demodatatype\demodatatype\obj\Debug\demodatatype.exe
+C:\Users\MI Studio\Desktop\visual studio\c#basic\demodatatype\demodatatype\obj\Debug\demodatatype.pdb
+W:\DotNet\c#basic\demodatatype\demodatatype\obj\Debug\demodatatype.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demodatatype\demodatatype\obj\Debug\demodatatype.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demodatatype\demodatatype\obj\Debug\demodatatype.exe
+W:\DotNet\c#basic\demodatatype\demodatatype\obj\Debug\demodatatype.pdb
+W:\DotNet\c#basic\demodatatype\demodatatype\bin\Debug\demodatatype.exe.config
+W:\DotNet\c#basic\demodatatype\demodatatype\bin\Debug\demodatatype.exe
+W:\DotNet\c#basic\demodatatype\demodatatype\bin\Debug\demodatatype.pdb

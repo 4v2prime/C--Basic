@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\demomath2\demomath2\bin\Debug\demomath2.exe.config
+W:\DotNet\c#basic\demomath2\demomath2\bin\Debug\demomath2.exe
+W:\DotNet\c#basic\demomath2\demomath2\bin\Debug\demomath2.pdb
+W:\DotNet\c#basic\demomath2\demomath2\obj\Debug\demomath2.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demomath2\demomath2\obj\Debug\demomath2.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demomath2\demomath2\obj\Debug\demomath2.exe
+W:\DotNet\c#basic\demomath2\demomath2\obj\Debug\demomath2.pdb

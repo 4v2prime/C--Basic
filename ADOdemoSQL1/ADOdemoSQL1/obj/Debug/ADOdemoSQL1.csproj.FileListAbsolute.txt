@@ -1,0 +1,11 @@
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\bin\Debug\ADOdemoSQL1.exe.config
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\bin\Debug\ADOdemoSQL1.exe
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\bin\Debug\ADOdemoSQL1.pdb
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\obj\Debug\ADOdemoSQL1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\obj\Debug\ADOdemoSQL1.Form1.resources
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\obj\Debug\ADOdemoSQL1.Properties.Resources.resources
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\obj\Debug\ADOdemoSQL1.csproj.GenerateResource.cache
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\obj\Debug\ADOdemoSQL1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\obj\Debug\ADOdemoSQL1.exe
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\obj\Debug\ADOdemoSQL1.pdb
+W:\DotNet\c#basic\ADOdemoSQL1\ADOdemoSQL1\obj\Debug\ADOdemoSQL1.Delete.resources

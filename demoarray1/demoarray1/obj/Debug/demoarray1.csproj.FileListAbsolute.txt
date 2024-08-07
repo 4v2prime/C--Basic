@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\demoarray1\demoarray1\obj\Debug\demoarray1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demoarray1\demoarray1\obj\Debug\demoarray1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demoarray1\demoarray1\bin\Debug\demoarray1.exe.config
+W:\DotNet\c#basic\demoarray1\demoarray1\bin\Debug\demoarray1.exe
+W:\DotNet\c#basic\demoarray1\demoarray1\bin\Debug\demoarray1.pdb
+W:\DotNet\c#basic\demoarray1\demoarray1\obj\Debug\demoarray1.exe
+W:\DotNet\c#basic\demoarray1\demoarray1\obj\Debug\demoarray1.pdb

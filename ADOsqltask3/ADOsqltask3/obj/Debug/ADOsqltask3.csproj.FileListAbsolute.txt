@@ -1,0 +1,12 @@
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\bin\Debug\ADOsqltask3.exe.config
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\bin\Debug\ADOsqltask3.exe
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\bin\Debug\ADOsqltask3.pdb
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\obj\Debug\ADOsqltask3.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\obj\Debug\ADOsqltask3.Form1.resources
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\obj\Debug\ADOsqltask3.Properties.Resources.resources
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\obj\Debug\ADOsqltask3.csproj.GenerateResource.cache
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\obj\Debug\ADOsqltask3.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\obj\Debug\ADOsqltask3.exe
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\obj\Debug\ADOsqltask3.pdb
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\obj\Debug\ADOsqltask3.AllUserdata.resources
+W:\DotNet\c#basic\ADOsqltask3\ADOsqltask3\obj\Debug\ADOsqltask3.frmLogin.resources

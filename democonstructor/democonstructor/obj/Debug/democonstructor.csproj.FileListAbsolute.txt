@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\democonstructor\democonstructor\bin\Debug\democonstructor.exe.config
+W:\DotNet\c#basic\democonstructor\democonstructor\bin\Debug\democonstructor.exe
+W:\DotNet\c#basic\democonstructor\democonstructor\bin\Debug\democonstructor.pdb
+W:\DotNet\c#basic\democonstructor\democonstructor\obj\Debug\democonstructor.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\democonstructor\democonstructor\obj\Debug\democonstructor.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\democonstructor\democonstructor\obj\Debug\democonstructor.exe
+W:\DotNet\c#basic\democonstructor\democonstructor\obj\Debug\democonstructor.pdb

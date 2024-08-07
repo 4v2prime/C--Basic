@@ -1,0 +1,7 @@
+W:\DotNet\c#basic\demoswitch1\demoswitch1\obj\Debug\demoswitch1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\demoswitch1\demoswitch1\obj\Debug\demoswitch1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\demoswitch1\demoswitch1\bin\Debug\demoswitch1.exe.config
+W:\DotNet\c#basic\demoswitch1\demoswitch1\bin\Debug\demoswitch1.exe
+W:\DotNet\c#basic\demoswitch1\demoswitch1\bin\Debug\demoswitch1.pdb
+W:\DotNet\c#basic\demoswitch1\demoswitch1\obj\Debug\demoswitch1.exe
+W:\DotNet\c#basic\demoswitch1\demoswitch1\obj\Debug\demoswitch1.pdb

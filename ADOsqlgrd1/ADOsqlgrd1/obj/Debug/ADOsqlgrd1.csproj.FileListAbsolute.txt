@@ -1,0 +1,10 @@
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\bin\Debug\ADOsqlgrd1.exe.config
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\bin\Debug\ADOsqlgrd1.exe
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\bin\Debug\ADOsqlgrd1.pdb
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\obj\Debug\ADOsqlgrd1.csproj.AssemblyReference.cache
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\obj\Debug\ADOsqlgrd1.Form1.resources
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\obj\Debug\ADOsqlgrd1.Properties.Resources.resources
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\obj\Debug\ADOsqlgrd1.csproj.GenerateResource.cache
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\obj\Debug\ADOsqlgrd1.csproj.CoreCompileInputs.cache
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\obj\Debug\ADOsqlgrd1.exe
+W:\DotNet\c#basic\ADOsqlgrd1\ADOsqlgrd1\obj\Debug\ADOsqlgrd1.pdb
